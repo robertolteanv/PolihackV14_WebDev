@@ -13,3 +13,7 @@ A "back-end" look from a single page at all interactions an user can choose to d
 The multiple use of pop-up elements when accesing more info about the menu or the shopping cart/checkout.
 
 ![pop-ups](https://i.imgur.com/ujU8fVv.png)
+
+It's more than one-click=one-action
+
+![moreactions](https://i.imgur.com/cijqr5S.png)
