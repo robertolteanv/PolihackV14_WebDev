@@ -6,4 +6,10 @@ https://appp-53080.bubbleapps.io/version-test/home_page
 
 #ASSETS:
 
+A "back-end" look from a single page at all interactions an user can choose to do 
+
 ![buttons for browse_page](https://i.imgur.com/3zOx3c1.png)
+
+The multiple use of pop-up elements when accesing more info about the menu or the shopping cart/checkout.
+
+![pop-ups](https://i.imgur.com/ujU8fVv.png)
