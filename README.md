@@ -4,7 +4,7 @@ An inclusive web application dedicated for making a positive impact with every m
 # LINK TO THE WEBSITE:
 https://appp-53080.bubbleapps.io/version-test/home_page
 
-# ASSETS:
+# ASSETS/FEATURES USED:
 
 A "back-end" look from a single page at all interactions an user can choose to do 
 
