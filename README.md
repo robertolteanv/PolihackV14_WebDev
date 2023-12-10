@@ -30,3 +30,7 @@ Using API keys to import assets that were designed by our team in Figma and impo
 Using a professional color palette consisting of modern and pleasing colors
 
 ![colors](https://i.imgur.com/CSyVzET.png)
+
+Having a broad design work constructed in Figma
+
+![design](https://i.imgur.com/FQyPTaa.jpeg)
