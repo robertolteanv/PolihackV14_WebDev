@@ -21,3 +21,7 @@ It's more than one-click=one-action
 Use of modern "no-coding" applications like Figma and Bubble.io
 
 ![figmabubble](https://bubble.io/blog/content/images/size/w600/2023/07/bubble-figma-integration.png)
+
+Using API keys to import assets that were designed by our team in Figma and imported to Bubble.io
+
+![api](https://i.imgur.com/LnE8ghj.png)
