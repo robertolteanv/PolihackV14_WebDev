@@ -38,3 +38,6 @@ Using a professional color palette consisting of modern and pleasing colors
 Having a broad design work constructed in Figma (Around 150 groups to offer a pleasant UX and UI)
 
 ![design](https://i.imgur.com/FQyPTaa.jpeg)
+
+
+<sup><sub>we added a small easter-egg too, try to find it ;)</sub></sup>
