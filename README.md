@@ -4,5 +4,6 @@ An inclusive web application dedicated for making a positive impact with every m
 # LINK TO THE WEBSITE:
 https://appp-53080.bubbleapps.io/version-test/home_page
 
-#ASSETS
-![buttons for browse_page]([[https://imgur.com/a/9HGBCLK](https://i.imgur.com/3zOx3c1.png)https://i.imgur.com/3zOx3c1.png](https://i.imgur.com/3zOx3c1.png)https://i.imgur.com/3zOx3c1.png)
+#ASSETS:
+
+![buttons for browse_page](https://i.imgur.com/3zOx3c1.png)
