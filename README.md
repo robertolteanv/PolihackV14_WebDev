@@ -31,6 +31,6 @@ Using a professional color palette consisting of modern and pleasing colors
 
 ![colors](https://i.imgur.com/CSyVzET.png)
 
-Having a broad design work constructed in Figma
+Having a broad design work constructed in Figma (Around 150 groups to offer a pleasant UX and UI)
 
 ![design](https://i.imgur.com/FQyPTaa.jpeg)
