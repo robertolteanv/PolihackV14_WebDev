@@ -17,3 +17,7 @@ The multiple use of pop-up elements when accesing more info about the menu or th
 It's more than one-click=one-action
 
 ![moreactions](https://i.imgur.com/cijqr5S.png)
+
+Use of modern "no-coding" applications like Figma and Bubble.io
+
+![figmabubble](https://bubble.io/blog/content/images/size/w600/2023/07/bubble-figma-integration.png)
