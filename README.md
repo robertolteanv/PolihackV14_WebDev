@@ -1,6 +1,7 @@
 # PolihackV14_WebDev 
 # Team weByte
-Members: Oltean Robert, Marincau Flavia, Tocan Robret, Daria Ungureanu
+Members: Oltean Robert, Marincau Flavia, Tocan Robert, Daria Ungureanu 
+#
 An inclusive web application dedicated for making a positive impact with every meal. It connects users with sellers of foods that would otherwise go to waste. The food is rescued from restaurants, stores, bakeries etc.
 
 # LINK TO THE WEBSITE:
